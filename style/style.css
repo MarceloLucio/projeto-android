@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'idroid' , cursive;
-    src: url('/style/fontes/idroid.otf') format('opentype');
+    src: url('style/fontes/idroid.otf') format('opentype');
 }
 
 :root{
