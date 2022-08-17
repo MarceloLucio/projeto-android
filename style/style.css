@@ -133,17 +133,16 @@ img{
 aside{
     background-color: var(--cor2);
     padding: 10px;
-    margin: 20px;
     border-radius: 10px;
     box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.158);
 }
-aside > h2{
+aside > h3{
     background-color: var(--cor5);
     color: white;
     padding: 10px;
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;
-    font-size: 1.2em;
+    
 }
 aside > p{
     text-align: justify;
